@@ -1,0 +1,9 @@
+{
+	"name": "framework-factory-btpns-poc",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "28ba9b1d-a099-487e-8e04-ec0e88140204",
+		"tenantId": "c3e978c0-919b-42fc-92c9-e2917bd58c96"
+	}
+}
